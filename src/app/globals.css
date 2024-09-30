@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #111827;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #fefce8;
+    --foreground: #ededed;
+    /* --nav: #e10600; */
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: "Gluten", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  /* overflow-x: hidden; */
+  font-variation-settings:
+    "slnt" 0;
+  }
+  
+
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
