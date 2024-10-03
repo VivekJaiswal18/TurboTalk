@@ -1,3 +1,9 @@
+## LedgerAI
+
+TurboTalk is an advanced AI-driven platform that leverages GaiaNet's F1 Node subdomain a large language model to offer in-depth information and analysis on all aspects of Formula 1 racing to fetch data. From historical data, team strategies, driver stats, and race predictions to technical insights about car engineering, TurboTalk serves as an intelligent companion for F1 enthusiasts. Whether you're a casual fan or a seasoned expert, TurboTalk brings the entire world of Formula 1 to your fingertips, providing real-time answers and expert-level insights.
+[Click Here to access the node subdomain](https://www.gaianet.ai/chat?subdomain=formula1.us.gaianet.network)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
